@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FoodCity">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="spring-context-support-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-support-5.3.8/spring-context-support-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-5.3.8/spring-jdbc-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-orm-5.3.8/spring-orm-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6/commons-io-2.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-5.3.8/spring-core-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-indexer-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-indexer-5.3.8/spring-context-indexer-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-web-5.3.8/spring-web-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-5.3.8/spring-webmvc-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-instrument-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-instrument-5.3.8/spring-instrument-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-websocket-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-websocket-5.3.8/spring-websocket-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-test-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-test-5.3.8/spring-test-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-5.3.8/spring-context-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-oxm-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-oxm-5.3.8/spring-oxm-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-5.3.8/spring-expression-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang3-3.12.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-lang3-3.12.0/commons-lang3-3.12.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webflux-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webflux-5.3.8/spring-webflux-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.49.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aspects-5.3.8/spring-aspects-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-r2dbc-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-r2dbc-5.3.8/spring-r2dbc-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-messaging-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-messaging-5.3.8/spring-messaging-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jms-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jms-5.3.8/spring-jms-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.3.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.3.3/commons-fileupload-1.3.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-5.3.8/spring-aop-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-5.3.8/spring-beans-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-tx-5.3.8/spring-tx-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-simple-1.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/json-simple-1.1.1/json-simple-1.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jcl-5.3.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jcl-5.3.8/spring-jcl-5.3.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="FoodCity"/>
+        <property name="java-output-path" value="/FoodCity/build/classes"/>
+    </wb-module>
+</project-modules>
